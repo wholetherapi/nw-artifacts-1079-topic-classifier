@@ -1,2 +1,2 @@
 # nw-artifacts-sentiment-gateway
-Probe repository created during environment validation.
+Superseded probe repository; kept only as unrelated noise.
